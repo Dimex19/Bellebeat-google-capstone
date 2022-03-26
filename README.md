@@ -1,7 +1,9 @@
 # Bellebeat-google-capstone
 
 About Dataset
+
 Introduction
+
 Bellabeat is a high-tech company that manufactures health-focused smart products for women.
 In 2013- started manufacturing
 2016- opened multiple offices around the world & launched multiple products

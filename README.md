@@ -17,10 +17,11 @@ How could these trends apply to Bellabeat customers?
 How could these trends help influence Bellabeat marketing strategy?
 
 DataSource
-Data is publicly available on Kaggle: FitBit Fitness Tracker Data and stored in 18 csv files. This analysis uses the below datasets
 
+Data is publicly available on Kaggle: FitBit Fitness Tracker Data and stored in 18 csv files. This analysis uses the below datasets
 dailyActivitymerged sleepDaymerged
 weightLogInfo_merged
+
 Contains personal fitness tracker from 33 fitbit users
 Was obtained from a distributed survey via Amazon Mechanical Turk between April 12,2016 and May 12, 2016.
 
